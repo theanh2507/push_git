@@ -1,5 +1,5 @@
 git init
-git remote add origin "url of repo" (https://github.com/theanh2507/gui_rviz2_qt5.git)
+git remote add origin "https://github.com/theanh2507/gui_rviz2_qt5.git" (https://github.com/theanh2507/gui_rviz2_qt5.git)
 git remote -v
 git add .
 git commit -m "my commit"
