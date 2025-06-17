@@ -1,0 +1,4 @@
+1) ros2 node list
+2) ps aux | grep my_node (Bạn sẽ thấy dòng kiểu: user  12345  ... ros2 run my_package my_node)
+3) kill 12345
+
