@@ -1,3 +1,4 @@
+ros2 run articubot_one waypoint.py --ros-args --params-file /home/theanh/mobile_rb_ws/src/articubot_one/config/waypoint_follow.yaml
 waypoint_follow:
   ros__parameters:
     poses:
